@@ -3,7 +3,7 @@ Maximal information coefficient (MIC)
 
 **1） MATLAB is the tool of NDC;**
 
-**2) Make sure that c++ has installed in your computer;**
+**2) Make sure that c++ has installed in your computer; In the matlab runtime environment, use the ```mex -setup``` command to set: <use of'Microsoft Visual C++' for C++ language compilation>**
 
 **3) Running program “make.m” to compile the c files to mex files;**
 
